@@ -1,5 +1,5 @@
 # css_assign3_hw
-#Hoste Link: https://mansi2020.github.io/css_assign3_hw/
+# Hoste Link: https://mansi2020.github.io/css_assign3_hw/
 # HTML code: 
 ![Screenshot (168)](https://github.com/mansi2020/css_assign3_hw/assets/57188328/f9284395-d562-43a2-98c8-ed1c4508dd79)
 ![Screenshot (169)](https://github.com/mansi2020/css_assign3_hw/assets/57188328/dc25f823-161f-4434-835f-d361b8a5a096)
